@@ -3,7 +3,7 @@ const {Telegraf} = require('telegraf');
 
 const axios = require('axios');
 
-const bot = new Telegraf('1814899158:AAE-wekx_kt0GP0yPt4gWhNE7V5UjcEDjtQ');
+const bot = new Telegraf('Inserta aqui el token de tu bot de Telegram');
 
 const schedule = require('node-schedule');
 
