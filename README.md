@@ -5,6 +5,8 @@ This is a Telegram bot created with Javascript and NodeJS with the Telegraf libr
 *RoboChicken answers doubts about the project 
 *RoboChicken offers purchase and sale links
 *RoboChicken gives the price of the project token in real time
-*RoboChicken alerts purchases and sales of the project token in real time 
+*RoboChicken alerts purchases and sales of the project token in real time
+*RoboChicken display a inner menu with diferents options
+*Robochicken do marketing and promotion in a selected time in a selected group
 *Among other things.
 
