@@ -7,9 +7,9 @@ const bot = new Telegraf('Inserta aqui el token de tu bot de Telegram');
 
 const schedule = require('node-schedule');
 
-url = `https://api.pancakeswap.info/api/v2/tokens/0xA244Ef3f07699b4b929C17e99DDB39BeC238465B`;
-url1 = `https://api.bscscan.com/api?module=account&action=tokenbalance&contractaddress=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c&address=0x02Fe6DBEEfC6AA4b3ec86E7eF2574b060EA64127&tag=latest&apikey=2YUNZATXSANNFQ991XWTACZTEUBQ3776H7`;
-url2 = `https://api.bscscan.com/api?module=stats&action=bnbprice&apikey=2YUNZATXSANNFQ991XWTACZTEUBQ3776H7`;
+url = `https://api.pancakeswap.info/api/v2/tokens/`;
+url1 = `https://api.bscscan.com/api?module=account&action=tokenbalance&contractaddress=&address=&tag=latest&apikey=`;
+url2 = `https://api.bscscan.com/api?module=stats&action=bnbprice&apikey=`;
 var oldPrice; 
 var precioEggc;
 var bnb;
